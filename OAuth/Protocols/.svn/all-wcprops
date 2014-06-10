@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/DrawingPad/!svn/ver/30/DrawingPad/OAuth/Protocols
+END
+TwitterLoginUiFeedback.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DrawingPad/!svn/ver/30/DrawingPad/OAuth/Protocols/TwitterLoginUiFeedback.h
+END
+OAuthTwitterCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DrawingPad/!svn/ver/30/DrawingPad/OAuth/Protocols/OAuthTwitterCallbacks.h
+END
+OAuthLoginPopupDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DrawingPad/!svn/ver/30/DrawingPad/OAuth/Protocols/OAuthLoginPopupDelegate.h
+END

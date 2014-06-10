@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>55BC9163-DDFC-459F-9847-81F902765CFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DrawingIpad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64B82FE0-895D-4F39-91FD-172262982DD1</key>
+		<string>http://192.168.1.240/svn/DrawingPad/DrawingPad</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DrawingIpad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64B82FE0-895D-4F39-91FD-172262982DD1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>64B82FE0-895D-4F39-91FD-172262982DD1</key>
+		<string>http://192.168.1.240/svn/DrawingPad</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.240/svn/DrawingPad/DrawingPad/DrawingIpad.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64B82FE0-895D-4F39-91FD-172262982DD1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64B82FE0-895D-4F39-91FD-172262982DD1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrawingPad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
